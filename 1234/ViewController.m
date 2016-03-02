@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    // Do any additional setup after loading the view, typically from a nib.；了；快捷键连接；宽度；规定；恩，个
 }
 
 - (void)didReceiveMemoryWarning {
